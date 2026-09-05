@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga UHD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga UHD
 acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 
-acestream://f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga multiaudio " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 
+acestream://d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080 
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
